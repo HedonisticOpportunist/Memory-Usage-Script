@@ -5,4 +5,5 @@ This script measures the overall memory usage every 15 seconds. If the usage is 
 Run the script every time the system starts by running the following commands when configuring/installing the script: 
 
 crontab -e
+
 reboot path to/extension.sh
