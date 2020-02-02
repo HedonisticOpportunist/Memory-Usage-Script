@@ -10,7 +10,7 @@ class MemoryUsage:
         dict = {
             "Total Memory:": self.memory.total,
             "Free Memory:": self.memory.available,
-            "Memory Used:": self.memory.used,
+            "Memory Used:": self.memory.used
         }
         return dict
 
